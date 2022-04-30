@@ -10,4 +10,4 @@ app.get("/", (req, res) => {
     res.send("Hello world");
 });
 //Listen on port 3000
-server = app.listen(3001);
+server = app.listen(3002);
